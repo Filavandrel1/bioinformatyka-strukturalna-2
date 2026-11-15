@@ -1,0 +1,11 @@
+sekwencja 1: pozycje 3-10
+sekwencja 2: pozycje 25-32
+KLMNPQRS
+||||||||
+KLMNPQRS
+--------------------------
+sekwencja 1: pozycje 13-23
+sekwencja 2: pozycje 3-12
+WYHEACGTVID
+||||| |||||
+WYHEA-GTVID
